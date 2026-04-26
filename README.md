@@ -1,4 +1,4 @@
-This is a repository which contains lab works done in my master's in Bicocca. The work is mostly about how neural networks may be applied to Ising model or different physics tasks. The main library used is Pytorch.
+This is a repository which contains lab works done in my master's in Bicocca. The work is mostly about how neural networks may be applied to Ising model or different physics tasks. The main library used is Pytorch. Notebook files are mostly the assignments and .py are the solutions. 
 
 Quick summary:
 
